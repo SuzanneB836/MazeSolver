@@ -5,7 +5,6 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2",
         "pxt-kitronik-move-motor": "github:kitronikltd/pxt-kitronik-move-motor#v0.4.17"
     },
     "files": [
@@ -24,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "blocksprj"
 }
